@@ -1,0 +1,38 @@
+#header {
+    width: 100%;
+    height: 60px;
+    background-color: #0d230f; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 0 20px;
+}
+
+#header div {
+    display: flex;
+    align-items: center;
+    color: #63ff50; 
+}
+
+#header div img {
+    width: 30px; 
+    height: 30px;
+}
+
+#header div:first-child {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+#header div:nth-child(2) {
+    font-weight: bold;
+    font-size: 1.3rem; 
+}
+
+#header div:last-child img {
+    border: 2px solid #63ff50;
+    border-radius: 50%;
+    padding: 5px; 
+}
+
+

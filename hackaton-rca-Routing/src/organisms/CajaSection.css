@@ -1,0 +1,29 @@
+#cajitas-container {
+    display: flex;                
+    justify-content: center;      
+    align-items: center;         
+    width: 100%;  
+    
+  }
+  
+#img-container {
+    width: 20%;                   
+    display: flex;               
+    justify-content: center;    
+    align-items: center;         
+  }
+  #h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 90px;
+  }
+  
+ 
+  
+  #cajita-container {
+    width: 100%;                   
+    display: flex;                
+    justify-content: center;      
+    align-items: center;          
+  }
+  
